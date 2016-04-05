@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SlideShowView">
+        <attr name="ImageOnLoading" format="reference|integer"></attr>
+        <attr name="ImageOnFail" format="reference|integer"></attr>
+        <attr name="DrawableOnLoading" format="reference|integer"></attr>
+    </declare-styleable>
+
+</resources>
